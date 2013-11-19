@@ -1,0 +1,14 @@
+{
+  "name": "RedCrossBloodDonationCentersScrapping",
+  "version": "0.0.0",
+  "description": "Scrapeds redcrossblood.org for data about their donation centers",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.27.0",
+    "cheerio": "~0.12.4",
+    "async": "~0.2.9",
+    "json2csv": "~2.2.1"
+  },
+  "author": "Ben Hansen",
+  "license": "BSD-2-Clause"
+}
