@@ -2,7 +2,7 @@
   "name": "RedCrossBloodDonationCentersScrapping",
   "version": "0.0.0",
   "description": "Scrapeds redcrossblood.org for data about their donation centers",
-  "main": "index.js",
+  "main": "scrapper.js",
   "dependencies": {
     "request": "~2.27.0",
     "cheerio": "~0.12.4",
